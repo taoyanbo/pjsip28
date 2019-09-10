@@ -1,0 +1,712 @@
+output/pjnath-arm-unknown-linux-androideabi/errno.o: ../src/pjnath/errno.c ../include/pjnath/errno.h \
+ ../../pjlib/include/pj/errno.h ../../pjlib/include/pj/types.h \
+ ../../pjlib/include/pj/config.h ../../pjlib/include/pj/compat/cc_gcc.h \
+ ../../pjlib/include/pj/compat/os_auto.h \
+ ../../pjlib/include/pj/compat/m_auto.h \
+ ../../pjlib/include/pj/compat/size_t.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/lib/gcc/arm-linux-androideabi/4.9.x/include/stddef.h \
+ ../../pjlib/include/pj/config_site.h \
+ ../../pjlib/include/pj/config_site_sample.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/lib/gcc/arm-linux-androideabi/4.9.x/include/stdint.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/stdint.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/_types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/machine/_types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/_wchar_limits.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/android/api-level.h \
+ ../../pjlib/include/pj/compat/errno.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/lib/gcc/arm-linux-androideabi/4.9.x/include/stdarg.h \
+ ../include/pjnath/stun_msg.h ../include/pjnath/types.h \
+ ../include/pjnath/config.h ../../pjlib/include/pj/sock.h \
+ ../../pjlib/include/pj/assert.h ../../pjlib/include/pj/compat/assert.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/assert.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/cdefs.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/cdefs_elf.h \
+ ../../pjlib/include/pj/log.h ../../pjlib/include/pj/string.h \
+ ../../pjlib/include/pj/compat/string.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/string.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/malloc.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/stdio.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/posix_types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/stddef.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/compiler.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/asm/posix_types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/asm/types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/machine/kernel.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/sysmacros.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/stdlib.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/alloca.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/strings.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/memory.h
+output/pjnath-arm-unknown-linux-androideabi/ice_session.o: ../src/pjnath/ice_session.c \
+ ../include/pjnath/ice_session.h ../include/pjnath/types.h \
+ ../../pjlib/include/pj/types.h ../../pjlib/include/pj/config.h \
+ ../../pjlib/include/pj/compat/cc_gcc.h \
+ ../../pjlib/include/pj/compat/os_auto.h \
+ ../../pjlib/include/pj/compat/m_auto.h \
+ ../../pjlib/include/pj/compat/size_t.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/lib/gcc/arm-linux-androideabi/4.9.x/include/stddef.h \
+ ../../pjlib/include/pj/config_site.h \
+ ../../pjlib/include/pj/config_site_sample.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/lib/gcc/arm-linux-androideabi/4.9.x/include/stdint.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/stdint.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/_types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/machine/_types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/_wchar_limits.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/android/api-level.h \
+ ../include/pjnath/config.h ../include/pjnath/stun_session.h \
+ ../include/pjnath/stun_msg.h ../../pjlib/include/pj/sock.h \
+ ../include/pjnath/stun_auth.h ../include/pjnath/stun_config.h \
+ ../../pjlib/include/pj/assert.h ../../pjlib/include/pj/compat/assert.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/assert.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/cdefs.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/cdefs_elf.h \
+ ../../pjlib/include/pj/errno.h ../../pjlib/include/pj/compat/errno.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/lib/gcc/arm-linux-androideabi/4.9.x/include/stdarg.h \
+ ../../pjlib/include/pj/string.h ../../pjlib/include/pj/compat/string.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/string.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/malloc.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/stdio.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/posix_types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/stddef.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/compiler.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/asm/posix_types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/asm/types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/machine/kernel.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/sysmacros.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/stdlib.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/alloca.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/strings.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/memory.h \
+ ../include/pjnath/stun_transaction.h ../../pjlib/include/pj/lock.h \
+ ../../pjlib/include/pj/list.h ../../pjlib/include/pj/timer.h \
+ ../include/pjnath/errno.h ../../pjlib/include/pj/addr_resolv.h \
+ ../../pjlib/include/pj/array.h ../../pjlib/include/pj/guid.h \
+ ../../pjlib/include/pj/hash.h ../../pjlib/include/pj/log.h \
+ ../../pjlib/include/pj/os.h ../../pjlib/include/pj/pool.h \
+ ../../pjlib/include/pj/rand.h
+output/pjnath-arm-unknown-linux-androideabi/ice_strans.o: ../src/pjnath/ice_strans.c ../include/pjnath/ice_strans.h \
+ ../include/pjnath/ice_session.h ../include/pjnath/types.h \
+ ../../pjlib/include/pj/types.h ../../pjlib/include/pj/config.h \
+ ../../pjlib/include/pj/compat/cc_gcc.h \
+ ../../pjlib/include/pj/compat/os_auto.h \
+ ../../pjlib/include/pj/compat/m_auto.h \
+ ../../pjlib/include/pj/compat/size_t.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/lib/gcc/arm-linux-androideabi/4.9.x/include/stddef.h \
+ ../../pjlib/include/pj/config_site.h \
+ ../../pjlib/include/pj/config_site_sample.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/lib/gcc/arm-linux-androideabi/4.9.x/include/stdint.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/stdint.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/_types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/machine/_types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/_wchar_limits.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/android/api-level.h \
+ ../include/pjnath/config.h ../include/pjnath/stun_session.h \
+ ../include/pjnath/stun_msg.h ../../pjlib/include/pj/sock.h \
+ ../include/pjnath/stun_auth.h ../include/pjnath/stun_config.h \
+ ../../pjlib/include/pj/assert.h ../../pjlib/include/pj/compat/assert.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/assert.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/cdefs.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/cdefs_elf.h \
+ ../../pjlib/include/pj/errno.h ../../pjlib/include/pj/compat/errno.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/lib/gcc/arm-linux-androideabi/4.9.x/include/stdarg.h \
+ ../../pjlib/include/pj/string.h ../../pjlib/include/pj/compat/string.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/string.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/malloc.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/stdio.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/posix_types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/stddef.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/compiler.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/asm/posix_types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/asm/types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/machine/kernel.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/sysmacros.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/stdlib.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/alloca.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/strings.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/memory.h \
+ ../include/pjnath/stun_transaction.h ../../pjlib/include/pj/lock.h \
+ ../../pjlib/include/pj/list.h ../../pjlib/include/pj/timer.h \
+ ../include/pjnath/errno.h ../include/pjnath/stun_sock.h \
+ ../../pjlib-util/include/pjlib-util/resolver.h \
+ ../../pjlib-util/include/pjlib-util/dns.h \
+ ../../pjlib-util/include/pjlib-util/types.h \
+ ../../pjlib-util/include/pjlib-util/config.h \
+ ../../pjlib/include/pj/ioqueue.h ../../pjlib/include/pj/sock_qos.h \
+ ../include/pjnath/turn_sock.h ../include/pjnath/turn_session.h \
+ ../../pjlib/include/pj/addr_resolv.h ../../pjlib/include/pj/array.h \
+ ../../pjlib/include/pj/ip_helper.h ../../pjlib/include/pj/log.h \
+ ../../pjlib/include/pj/os.h ../../pjlib/include/pj/pool.h \
+ ../../pjlib/include/pj/rand.h ../../pjlib/include/pj/compat/socket.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/socket.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/socket.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/asm/socket.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/asm/sockios.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/sockios.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/uio.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/select.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/time.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/time.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/signal.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/lib/gcc/arm-linux-androideabi/4.9.x/include-fixed/limits.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/lib/gcc/arm-linux-androideabi/4.9.x/include-fixed/syslimits.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/limits.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/limits.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/limits.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/machine/internal_types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/machine/limits.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/syslimits.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/asm/page.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/asm/signal.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/asm-generic/signal.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/asm/sigcontext.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/asm/siginfo.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/asm-generic/siginfo.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/ucontext.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/user.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/netinet/in.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/endian.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/endian.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/in.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/asm/byteorder.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/byteorder/little_endian.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/byteorder/swab.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/byteorder/generic.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/in6.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/ipv6.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/netinet/in6.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/netinet/in_systm.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/netinet/tcp.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/tcp.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/net/if.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/if.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/hdlc/ioctl.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/arpa/inet.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/ioctl.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/ioctl.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/asm/ioctl.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/asm-generic/ioctl.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/asm/ioctls.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/asm/termbits.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/ioctl_compat.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/errno.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/errno.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/asm/errno.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/asm-generic/errno.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/asm-generic/errno-base.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/netdb.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/unistd.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/sysconf.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/capability.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/pathconf.h
+output/pjnath-arm-unknown-linux-androideabi/nat_detect.o: ../src/pjnath/nat_detect.c ../include/pjnath/nat_detect.h \
+ ../include/pjnath/stun_session.h ../include/pjnath/stun_msg.h \
+ ../include/pjnath/types.h ../../pjlib/include/pj/types.h \
+ ../../pjlib/include/pj/config.h ../../pjlib/include/pj/compat/cc_gcc.h \
+ ../../pjlib/include/pj/compat/os_auto.h \
+ ../../pjlib/include/pj/compat/m_auto.h \
+ ../../pjlib/include/pj/compat/size_t.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/lib/gcc/arm-linux-androideabi/4.9.x/include/stddef.h \
+ ../../pjlib/include/pj/config_site.h \
+ ../../pjlib/include/pj/config_site_sample.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/lib/gcc/arm-linux-androideabi/4.9.x/include/stdint.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/stdint.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/_types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/machine/_types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/_wchar_limits.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/android/api-level.h \
+ ../include/pjnath/config.h ../../pjlib/include/pj/sock.h \
+ ../include/pjnath/stun_auth.h ../include/pjnath/stun_config.h \
+ ../../pjlib/include/pj/assert.h ../../pjlib/include/pj/compat/assert.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/assert.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/cdefs.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/cdefs_elf.h \
+ ../../pjlib/include/pj/errno.h ../../pjlib/include/pj/compat/errno.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/lib/gcc/arm-linux-androideabi/4.9.x/include/stdarg.h \
+ ../../pjlib/include/pj/string.h ../../pjlib/include/pj/compat/string.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/string.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/malloc.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/stdio.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/posix_types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/stddef.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/compiler.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/asm/posix_types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/asm/types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/machine/kernel.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/sysmacros.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/stdlib.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/alloca.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/strings.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/memory.h \
+ ../include/pjnath/stun_transaction.h ../../pjlib/include/pj/lock.h \
+ ../../pjlib/include/pj/list.h ../../pjlib/include/pj/timer.h \
+ ../include/pjnath/errno.h ../../pjlib/include/pj/ioqueue.h \
+ ../../pjlib/include/pj/log.h ../../pjlib/include/pj/os.h \
+ ../../pjlib/include/pj/pool.h ../../pjlib/include/pj/rand.h \
+ ../../pjlib/include/pj/compat/socket.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/socket.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/socket.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/asm/socket.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/asm/sockios.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/sockios.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/uio.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/select.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/time.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/time.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/signal.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/lib/gcc/arm-linux-androideabi/4.9.x/include-fixed/limits.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/lib/gcc/arm-linux-androideabi/4.9.x/include-fixed/syslimits.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/limits.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/limits.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/limits.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/machine/internal_types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/machine/limits.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/syslimits.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/asm/page.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/asm/signal.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/asm-generic/signal.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/asm/sigcontext.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/asm/siginfo.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/asm-generic/siginfo.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/ucontext.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/user.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/netinet/in.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/endian.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/endian.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/in.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/asm/byteorder.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/byteorder/little_endian.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/byteorder/swab.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/byteorder/generic.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/in6.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/ipv6.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/netinet/in6.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/netinet/in_systm.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/netinet/tcp.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/tcp.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/net/if.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/if.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/hdlc/ioctl.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/arpa/inet.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/ioctl.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/ioctl.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/asm/ioctl.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/asm-generic/ioctl.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/asm/ioctls.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/asm/termbits.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/ioctl_compat.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/errno.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/errno.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/asm/errno.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/asm-generic/errno.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/asm-generic/errno-base.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/netdb.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/unistd.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/sysconf.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/capability.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/pathconf.h
+output/pjnath-arm-unknown-linux-androideabi/stun_auth.o: ../src/pjnath/stun_auth.c ../include/pjnath/stun_auth.h \
+ ../include/pjnath/stun_msg.h ../include/pjnath/types.h \
+ ../../pjlib/include/pj/types.h ../../pjlib/include/pj/config.h \
+ ../../pjlib/include/pj/compat/cc_gcc.h \
+ ../../pjlib/include/pj/compat/os_auto.h \
+ ../../pjlib/include/pj/compat/m_auto.h \
+ ../../pjlib/include/pj/compat/size_t.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/lib/gcc/arm-linux-androideabi/4.9.x/include/stddef.h \
+ ../../pjlib/include/pj/config_site.h \
+ ../../pjlib/include/pj/config_site_sample.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/lib/gcc/arm-linux-androideabi/4.9.x/include/stdint.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/stdint.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/_types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/machine/_types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/_wchar_limits.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/android/api-level.h \
+ ../include/pjnath/config.h ../../pjlib/include/pj/sock.h \
+ ../include/pjnath/errno.h ../../pjlib/include/pj/errno.h \
+ ../../pjlib/include/pj/compat/errno.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/lib/gcc/arm-linux-androideabi/4.9.x/include/stdarg.h \
+ ../../pjlib-util/include/pjlib-util/hmac_sha1.h \
+ ../../pjlib-util/include/pjlib-util/sha1.h \
+ ../../pjlib-util/include/pjlib-util/md5.h \
+ ../../pjlib/include/pj/assert.h ../../pjlib/include/pj/compat/assert.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/assert.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/cdefs.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/cdefs_elf.h \
+ ../../pjlib/include/pj/log.h ../../pjlib/include/pj/pool.h \
+ ../../pjlib/include/pj/list.h ../../pjlib/include/pj/string.h \
+ ../../pjlib/include/pj/compat/string.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/string.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/malloc.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/stdio.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/posix_types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/stddef.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/compiler.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/asm/posix_types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/asm/types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/machine/kernel.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/sysmacros.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/stdlib.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/alloca.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/strings.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/memory.h
+output/pjnath-arm-unknown-linux-androideabi/stun_msg.o: ../src/pjnath/stun_msg.c ../include/pjnath/stun_msg.h \
+ ../include/pjnath/types.h ../../pjlib/include/pj/types.h \
+ ../../pjlib/include/pj/config.h ../../pjlib/include/pj/compat/cc_gcc.h \
+ ../../pjlib/include/pj/compat/os_auto.h \
+ ../../pjlib/include/pj/compat/m_auto.h \
+ ../../pjlib/include/pj/compat/size_t.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/lib/gcc/arm-linux-androideabi/4.9.x/include/stddef.h \
+ ../../pjlib/include/pj/config_site.h \
+ ../../pjlib/include/pj/config_site_sample.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/lib/gcc/arm-linux-androideabi/4.9.x/include/stdint.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/stdint.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/_types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/machine/_types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/_wchar_limits.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/android/api-level.h \
+ ../include/pjnath/config.h ../../pjlib/include/pj/sock.h \
+ ../include/pjnath/errno.h ../../pjlib/include/pj/errno.h \
+ ../../pjlib/include/pj/compat/errno.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/lib/gcc/arm-linux-androideabi/4.9.x/include/stdarg.h \
+ ../../pjlib-util/include/pjlib-util/crc32.h \
+ ../../pjlib-util/include/pjlib-util/types.h \
+ ../../pjlib-util/include/pjlib-util/config.h \
+ ../../pjlib-util/include/pjlib-util/hmac_sha1.h \
+ ../../pjlib-util/include/pjlib-util/sha1.h \
+ ../../pjlib/include/pj/assert.h ../../pjlib/include/pj/compat/assert.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/assert.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/cdefs.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/cdefs_elf.h \
+ ../../pjlib/include/pj/log.h ../../pjlib/include/pj/os.h \
+ ../../pjlib/include/pj/pool.h ../../pjlib/include/pj/list.h \
+ ../../pjlib/include/pj/rand.h ../../pjlib/include/pj/string.h \
+ ../../pjlib/include/pj/compat/string.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/string.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/malloc.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/stdio.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/posix_types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/stddef.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/compiler.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/asm/posix_types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/asm/types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/machine/kernel.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/sysmacros.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/stdlib.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/alloca.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/strings.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/memory.h
+output/pjnath-arm-unknown-linux-androideabi/stun_msg_dump.o: ../src/pjnath/stun_msg_dump.c \
+ ../include/pjnath/stun_msg.h ../include/pjnath/types.h \
+ ../../pjlib/include/pj/types.h ../../pjlib/include/pj/config.h \
+ ../../pjlib/include/pj/compat/cc_gcc.h \
+ ../../pjlib/include/pj/compat/os_auto.h \
+ ../../pjlib/include/pj/compat/m_auto.h \
+ ../../pjlib/include/pj/compat/size_t.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/lib/gcc/arm-linux-androideabi/4.9.x/include/stddef.h \
+ ../../pjlib/include/pj/config_site.h \
+ ../../pjlib/include/pj/config_site_sample.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/lib/gcc/arm-linux-androideabi/4.9.x/include/stdint.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/stdint.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/_types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/machine/_types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/_wchar_limits.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/android/api-level.h \
+ ../include/pjnath/config.h ../../pjlib/include/pj/sock.h \
+ ../include/pjnath/errno.h ../../pjlib/include/pj/errno.h \
+ ../../pjlib/include/pj/compat/errno.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/lib/gcc/arm-linux-androideabi/4.9.x/include/stdarg.h \
+ ../../pjlib/include/pj/assert.h ../../pjlib/include/pj/compat/assert.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/assert.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/cdefs.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/cdefs_elf.h \
+ ../../pjlib/include/pj/os.h ../../pjlib/include/pj/string.h \
+ ../../pjlib/include/pj/compat/string.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/string.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/malloc.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/stdio.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/posix_types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/stddef.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/compiler.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/asm/posix_types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/asm/types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/machine/kernel.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/sysmacros.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/stdlib.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/alloca.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/strings.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/memory.h
+output/pjnath-arm-unknown-linux-androideabi/stun_session.o: ../src/pjnath/stun_session.c \
+ ../include/pjnath/stun_session.h ../include/pjnath/stun_msg.h \
+ ../include/pjnath/types.h ../../pjlib/include/pj/types.h \
+ ../../pjlib/include/pj/config.h ../../pjlib/include/pj/compat/cc_gcc.h \
+ ../../pjlib/include/pj/compat/os_auto.h \
+ ../../pjlib/include/pj/compat/m_auto.h \
+ ../../pjlib/include/pj/compat/size_t.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/lib/gcc/arm-linux-androideabi/4.9.x/include/stddef.h \
+ ../../pjlib/include/pj/config_site.h \
+ ../../pjlib/include/pj/config_site_sample.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/lib/gcc/arm-linux-androideabi/4.9.x/include/stdint.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/stdint.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/_types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/machine/_types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/_wchar_limits.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/android/api-level.h \
+ ../include/pjnath/config.h ../../pjlib/include/pj/sock.h \
+ ../include/pjnath/stun_auth.h ../include/pjnath/stun_config.h \
+ ../../pjlib/include/pj/assert.h ../../pjlib/include/pj/compat/assert.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/assert.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/cdefs.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/cdefs_elf.h \
+ ../../pjlib/include/pj/errno.h ../../pjlib/include/pj/compat/errno.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/lib/gcc/arm-linux-androideabi/4.9.x/include/stdarg.h \
+ ../../pjlib/include/pj/string.h ../../pjlib/include/pj/compat/string.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/string.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/malloc.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/stdio.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/posix_types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/stddef.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/compiler.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/asm/posix_types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/asm/types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/machine/kernel.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/sysmacros.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/stdlib.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/alloca.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/strings.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/memory.h \
+ ../include/pjnath/stun_transaction.h ../../pjlib/include/pj/lock.h \
+ ../../pjlib/include/pj/list.h ../../pjlib/include/pj/timer.h \
+ ../include/pjnath/errno.h ../../pjlib/include/pjlib.h \
+ ../../pjlib/include/pj/activesock.h ../../pjlib/include/pj/ioqueue.h \
+ ../../pjlib/include/pj/addr_resolv.h ../../pjlib/include/pj/array.h \
+ ../../pjlib/include/pj/ctype.h ../../pjlib/include/pj/compat/ctype.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/ctype.h \
+ ../../pjlib/include/pj/except.h ../../pjlib/include/pj/compat/setjmp.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/setjmp.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/machine/setjmp.h \
+ ../../pjlib/include/pj/log.h ../../pjlib/include/pj/fifobuf.h \
+ ../../pjlib/include/pj/file_access.h ../../pjlib/include/pj/file_io.h \
+ ../../pjlib/include/pj/guid.h ../../pjlib/include/pj/hash.h \
+ ../../pjlib/include/pj/ip_helper.h ../../pjlib/include/pj/math.h \
+ ../../pjlib/include/pj/compat/high_precision.h \
+ ../../pjlib/include/pj/os.h ../../pjlib/include/pj/pool.h \
+ ../../pjlib/include/pj/pool_buf.h ../../pjlib/include/pj/rand.h \
+ ../../pjlib/include/pj/rbtree.h ../../pjlib/include/pj/sock_qos.h \
+ ../../pjlib/include/pj/sock_select.h ../../pjlib/include/pj/ssl_sock.h \
+ ../../pjlib/include/pj/unicode.h
+output/pjnath-arm-unknown-linux-androideabi/stun_sock.o: ../src/pjnath/stun_sock.c ../include/pjnath/stun_sock.h \
+ ../include/pjnath/stun_config.h ../include/pjnath/stun_msg.h \
+ ../include/pjnath/types.h ../../pjlib/include/pj/types.h \
+ ../../pjlib/include/pj/config.h ../../pjlib/include/pj/compat/cc_gcc.h \
+ ../../pjlib/include/pj/compat/os_auto.h \
+ ../../pjlib/include/pj/compat/m_auto.h \
+ ../../pjlib/include/pj/compat/size_t.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/lib/gcc/arm-linux-androideabi/4.9.x/include/stddef.h \
+ ../../pjlib/include/pj/config_site.h \
+ ../../pjlib/include/pj/config_site_sample.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/lib/gcc/arm-linux-androideabi/4.9.x/include/stdint.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/stdint.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/_types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/machine/_types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/_wchar_limits.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/android/api-level.h \
+ ../include/pjnath/config.h ../../pjlib/include/pj/sock.h \
+ ../../pjlib/include/pj/assert.h ../../pjlib/include/pj/compat/assert.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/assert.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/cdefs.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/cdefs_elf.h \
+ ../../pjlib/include/pj/errno.h ../../pjlib/include/pj/compat/errno.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/lib/gcc/arm-linux-androideabi/4.9.x/include/stdarg.h \
+ ../../pjlib/include/pj/string.h ../../pjlib/include/pj/compat/string.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/string.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/malloc.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/stdio.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/posix_types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/stddef.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/compiler.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/asm/posix_types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/asm/types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/machine/kernel.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/sysmacros.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/stdlib.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/alloca.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/strings.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/memory.h \
+ ../../pjlib-util/include/pjlib-util/resolver.h \
+ ../../pjlib-util/include/pjlib-util/dns.h \
+ ../../pjlib-util/include/pjlib-util/types.h \
+ ../../pjlib-util/include/pjlib-util/config.h \
+ ../../pjlib/include/pj/ioqueue.h ../../pjlib/include/pj/lock.h \
+ ../../pjlib/include/pj/sock_qos.h ../include/pjnath/errno.h \
+ ../include/pjnath/stun_transaction.h ../include/pjnath/stun_session.h \
+ ../include/pjnath/stun_auth.h ../../pjlib/include/pj/list.h \
+ ../../pjlib/include/pj/timer.h \
+ ../../pjlib-util/include/pjlib-util/srv_resolver.h \
+ ../../pjlib/include/pj/activesock.h ../../pjlib/include/pj/addr_resolv.h \
+ ../../pjlib/include/pj/array.h ../../pjlib/include/pj/ip_helper.h \
+ ../../pjlib/include/pj/log.h ../../pjlib/include/pj/os.h \
+ ../../pjlib/include/pj/pool.h ../../pjlib/include/pj/rand.h
+output/pjnath-arm-unknown-linux-androideabi/stun_transaction.o: ../src/pjnath/stun_transaction.c \
+ ../include/pjnath/stun_transaction.h ../include/pjnath/stun_msg.h \
+ ../include/pjnath/types.h ../../pjlib/include/pj/types.h \
+ ../../pjlib/include/pj/config.h ../../pjlib/include/pj/compat/cc_gcc.h \
+ ../../pjlib/include/pj/compat/os_auto.h \
+ ../../pjlib/include/pj/compat/m_auto.h \
+ ../../pjlib/include/pj/compat/size_t.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/lib/gcc/arm-linux-androideabi/4.9.x/include/stddef.h \
+ ../../pjlib/include/pj/config_site.h \
+ ../../pjlib/include/pj/config_site_sample.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/lib/gcc/arm-linux-androideabi/4.9.x/include/stdint.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/stdint.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/_types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/machine/_types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/_wchar_limits.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/android/api-level.h \
+ ../include/pjnath/config.h ../../pjlib/include/pj/sock.h \
+ ../include/pjnath/stun_config.h ../../pjlib/include/pj/assert.h \
+ ../../pjlib/include/pj/compat/assert.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/assert.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/cdefs.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/cdefs_elf.h \
+ ../../pjlib/include/pj/errno.h ../../pjlib/include/pj/compat/errno.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/lib/gcc/arm-linux-androideabi/4.9.x/include/stdarg.h \
+ ../../pjlib/include/pj/string.h ../../pjlib/include/pj/compat/string.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/string.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/malloc.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/stdio.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/posix_types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/stddef.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/compiler.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/asm/posix_types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/asm/types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/machine/kernel.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/sysmacros.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/stdlib.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/alloca.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/strings.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/memory.h \
+ ../../pjlib/include/pj/lock.h ../include/pjnath/errno.h \
+ ../../pjlib/include/pj/log.h ../../pjlib/include/pj/pool.h \
+ ../../pjlib/include/pj/list.h ../../pjlib/include/pj/timer.h
+output/pjnath-arm-unknown-linux-androideabi/turn_session.o: ../src/pjnath/turn_session.c \
+ ../include/pjnath/turn_session.h ../include/pjnath/stun_session.h \
+ ../include/pjnath/stun_msg.h ../include/pjnath/types.h \
+ ../../pjlib/include/pj/types.h ../../pjlib/include/pj/config.h \
+ ../../pjlib/include/pj/compat/cc_gcc.h \
+ ../../pjlib/include/pj/compat/os_auto.h \
+ ../../pjlib/include/pj/compat/m_auto.h \
+ ../../pjlib/include/pj/compat/size_t.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/lib/gcc/arm-linux-androideabi/4.9.x/include/stddef.h \
+ ../../pjlib/include/pj/config_site.h \
+ ../../pjlib/include/pj/config_site_sample.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/lib/gcc/arm-linux-androideabi/4.9.x/include/stdint.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/stdint.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/_types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/machine/_types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/_wchar_limits.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/android/api-level.h \
+ ../include/pjnath/config.h ../../pjlib/include/pj/sock.h \
+ ../include/pjnath/stun_auth.h ../include/pjnath/stun_config.h \
+ ../../pjlib/include/pj/assert.h ../../pjlib/include/pj/compat/assert.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/assert.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/cdefs.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/cdefs_elf.h \
+ ../../pjlib/include/pj/errno.h ../../pjlib/include/pj/compat/errno.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/lib/gcc/arm-linux-androideabi/4.9.x/include/stdarg.h \
+ ../../pjlib/include/pj/string.h ../../pjlib/include/pj/compat/string.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/string.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/malloc.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/stdio.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/posix_types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/stddef.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/compiler.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/asm/posix_types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/asm/types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/machine/kernel.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/sysmacros.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/stdlib.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/alloca.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/strings.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/memory.h \
+ ../include/pjnath/stun_transaction.h ../../pjlib/include/pj/lock.h \
+ ../../pjlib/include/pj/list.h ../../pjlib/include/pj/timer.h \
+ ../../pjlib-util/include/pjlib-util/resolver.h \
+ ../../pjlib-util/include/pjlib-util/dns.h \
+ ../../pjlib-util/include/pjlib-util/types.h \
+ ../../pjlib-util/include/pjlib-util/config.h ../include/pjnath/errno.h \
+ ../../pjlib-util/include/pjlib-util/srv_resolver.h \
+ ../../pjlib/include/pj/addr_resolv.h ../../pjlib/include/pj/hash.h \
+ ../../pjlib/include/pj/log.h ../../pjlib/include/pj/os.h \
+ ../../pjlib/include/pj/pool.h ../../pjlib/include/pj/rand.h
+output/pjnath-arm-unknown-linux-androideabi/turn_sock.o: ../src/pjnath/turn_sock.c ../include/pjnath/turn_sock.h \
+ ../include/pjnath/turn_session.h ../include/pjnath/stun_session.h \
+ ../include/pjnath/stun_msg.h ../include/pjnath/types.h \
+ ../../pjlib/include/pj/types.h ../../pjlib/include/pj/config.h \
+ ../../pjlib/include/pj/compat/cc_gcc.h \
+ ../../pjlib/include/pj/compat/os_auto.h \
+ ../../pjlib/include/pj/compat/m_auto.h \
+ ../../pjlib/include/pj/compat/size_t.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/lib/gcc/arm-linux-androideabi/4.9.x/include/stddef.h \
+ ../../pjlib/include/pj/config_site.h \
+ ../../pjlib/include/pj/config_site_sample.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/lib/gcc/arm-linux-androideabi/4.9.x/include/stdint.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/stdint.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/_types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/machine/_types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/_wchar_limits.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/android/api-level.h \
+ ../include/pjnath/config.h ../../pjlib/include/pj/sock.h \
+ ../include/pjnath/stun_auth.h ../include/pjnath/stun_config.h \
+ ../../pjlib/include/pj/assert.h ../../pjlib/include/pj/compat/assert.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/assert.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/cdefs.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/cdefs_elf.h \
+ ../../pjlib/include/pj/errno.h ../../pjlib/include/pj/compat/errno.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/toolchains/arm-linux-androideabi-4.9/prebuilt/darwin-x86_64/lib/gcc/arm-linux-androideabi/4.9.x/include/stdarg.h \
+ ../../pjlib/include/pj/string.h ../../pjlib/include/pj/compat/string.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/string.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/malloc.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/stdio.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/posix_types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/stddef.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/compiler.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/asm/posix_types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/asm/types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/linux/types.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/machine/kernel.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/sys/sysmacros.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/stdlib.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/alloca.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/strings.h \
+ /Users/taoyanbo/Documents/android-ndk-r14b/platforms/android-16/arch-arm/usr/include/memory.h \
+ ../include/pjnath/stun_transaction.h ../../pjlib/include/pj/lock.h \
+ ../../pjlib/include/pj/list.h ../../pjlib/include/pj/timer.h \
+ ../../pjlib-util/include/pjlib-util/resolver.h \
+ ../../pjlib-util/include/pjlib-util/dns.h \
+ ../../pjlib-util/include/pjlib-util/types.h \
+ ../../pjlib-util/include/pjlib-util/config.h \
+ ../../pjlib/include/pj/sock_qos.h ../../pjlib/include/pj/activesock.h \
+ ../../pjlib/include/pj/ioqueue.h ../../pjlib/include/pj/log.h \
+ ../../pjlib/include/pj/pool.h
