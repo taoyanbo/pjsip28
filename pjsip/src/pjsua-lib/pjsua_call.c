@@ -58,6 +58,8 @@ static const pjsip_method pjsip_update_method =
     { "UPDATE", 6 }
 };
 
+unsigned char rejectFlag_c = 0; //to check whether can reject CALL.
+
 /* This callback receives notification from invite session when the
  * session state has changed.
  */
@@ -758,6 +760,8 @@ void call_update_contact(pjsua_call *call, pj_str_t **new_contact)
 
 
 
+ 
+
 /*
  * Make outgoing call to the specified URI using the specified account.
  */
@@ -776,6 +780,9 @@ PJ_DEF(pj_status_t) pjsua_call_make_call(pjsua_acc_id acc_id,
     pj_str_t contact;
     pj_status_t status;
 
+	PJ_LOG(4, (THIS_FILE, "YANBO checking rejectFlag = %d", rejectFlag_c));
+
+	PJ_ASSERT_RETURN(!rejectFlag_c,PJ_EINVAL);
     /* Check that account is valid */
     PJ_ASSERT_RETURN(acc_id>=0 || acc_id<(int)PJ_ARRAY_SIZE(pjsua_var.acc),
 		     PJ_EINVAL);
